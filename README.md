@@ -6,7 +6,7 @@
 
 This Repository contains some simple and useful scripts for system admins and system engineers.
 
-## InstallationClone this repository
+## Clone this repository
 
 Run following command.
 
