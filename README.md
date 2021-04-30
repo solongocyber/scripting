@@ -28,3 +28,5 @@ python python_scripts/<script>
 #### Note : Change ``` <script> ``` to script name
 
 Please make sure to update tests as appropriate.
+test
+test2
